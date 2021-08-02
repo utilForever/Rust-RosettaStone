@@ -1,0 +1,13 @@
+[package]
+name = "rosettastone"
+version = "0.0.1"
+authors = [ "Chris Ohk <utilforever@gmail.com>" ]
+edition = "2018"
+description = "Hearthstone simulator using Rust with some reinforcement learning"
+
+readme = "README.md"
+license = "AGPL-3.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
